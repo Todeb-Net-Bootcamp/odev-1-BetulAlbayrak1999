@@ -1,0 +1,39 @@
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\appsettings.json
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\CRUD Operations.exe
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\CRUD Operations.deps.json
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\CRUD Operations.runtimeconfig.json
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\CRUD Operations.runtimeconfig.dev.json
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\CRUD Operations.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\ref\CRUD Operations.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\CRUD Operations.pdb
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\CRUD Operations.csproj.AssemblyReference.cache
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\CRUD Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\CRUD Operations.AssemblyInfoInputs.cache
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\CRUD Operations.AssemblyInfo.cs
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\CRUD Operations.csproj.CoreCompileInputs.cache
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\CRUD Operations.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\CRUD Operations.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\staticwebassets\CRUD Operations.StaticWebAssets.Manifest.cache
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\staticwebassets\CRUD Operations.StaticWebAssets.xml
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\scopedcss\bundle\CRUD Operations.styles.css
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\CRUD Operations.RazorTargetAssemblyInfo.cache
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\CRUD Operations.csproj.CopyComplete
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\CRUD Operations.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\ref\CRUD Operations.dll
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\CRUD Operations.pdb
+C:\Users\18120212004\Documents\GitHub\odev-1-BetulAlbayrak1999\CRUD Operations\CRUD Operations\obj\Debug\net5.0\CRUD Operations.genruntimeconfig.cache
